@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/Controls.png</file>
+        <file>img/2048 icon.png</file>
+    </qresource>
+</RCC>
